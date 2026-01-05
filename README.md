@@ -4,7 +4,7 @@ Digital Portfolio Engine built with **Next.js 15** and **Tailwind CSS**.
 Designed to showcase AI integrations and full-stack solutions.
 
 ## 🚀 Live Demo
-🔗 [tabia-portfolio.vercel.app](https://tabia-portfolio.vercel.app)
+🔗 [tabia-portfolio.vercel.app](https://tabiahanural.vercel.app)
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js 15 (App Router)
