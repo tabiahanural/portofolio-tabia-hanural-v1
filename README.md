@@ -27,7 +27,6 @@ Designed to showcase AI integrations and full-stack solutions.
 
 ## 📈 Version History
 - **v1.0.0 (Initial Build):** Minimalist glassmorphism, project showcase, and AI chatbot integration.
-- **v1.1.0 (Planned):** Dark/Light mode toggle, blog system, and more interactive 3D elements.
 
 ---
 © 2025 Tabia Hanural. Built with ❤️ and Logic.
